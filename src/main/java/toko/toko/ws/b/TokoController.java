@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  *
- * @author user
+ * @author Zahwa Ladya Maharani_060
  */
 @Controller
 @ResponseBody

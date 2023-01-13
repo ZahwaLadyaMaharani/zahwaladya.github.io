@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author user
+ * @author Zahwa Ladya Maharani_060
  */
 @RestController
 @CrossOrigin
